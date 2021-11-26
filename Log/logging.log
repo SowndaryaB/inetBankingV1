@@ -1,0 +1,832 @@
+2021-11-17 18:04:22 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:04:23 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:04:23 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:04:24 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:05:16 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:05:16 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:05:16 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:05:18 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:08:11 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:08:11 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:08:11 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:08:12 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:10:51 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:10:51 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:10:52 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:10:53 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:17:54 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:17:54 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:17:54 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:17:55 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:19:16 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:19:16 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:19:16 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:19:18 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:24:01 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:24:01 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:24:01 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:24:03 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:27:38 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:27:38 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:27:38 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:34:49 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:34:49 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:34:49 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:35:34 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:35:34 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:35:34 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:35:53 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:49:22 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:49:22 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:49:22 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:49:26 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:51:05 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:51:05 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:51:05 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:51:07 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:55:51 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:55:51 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:55:51 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:55:53 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:56:36 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:56:36 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:56:36 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:56:38 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 18:57:19 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 18:57:20 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 18:57:20 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 18:57:22 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 19:04:06 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 19:04:06 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 19:04:06 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 19:04:08 INFO  [main] TC_LoginTest_001.java:30 - Login test is passed
+  2021-11-17 19:13:04 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 19:13:04 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 19:13:04 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 19:15:41 INFO  [main] TC_LoginTest_001.java:14 - Url is opened
+  2021-11-17 19:15:41 INFO  [main] TC_LoginTest_001.java:19 - Enter username
+  2021-11-17 19:15:41 INFO  [main] TC_LoginTest_001.java:22 - Enter password
+  2021-11-17 19:25:32 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-17 19:25:33 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-17 19:25:33 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-17 19:25:33 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-17 19:25:33 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-17 19:25:33 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-17 19:26:59 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-17 19:26:59 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-17 19:26:59 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-17 19:30:33 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-17 19:30:33 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-17 19:30:33 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-17 19:30:35 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-18 12:24:48 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:24:49 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:24:57 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:24:57 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:24:59 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:24:59 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:25:01 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:25:01 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:25:03 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:25:03 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:25:03 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:26:16 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:26:16 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:26:19 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:26:19 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:26:21 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:26:21 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:26:23 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:26:23 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:26:25 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:26:25 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:26:25 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:29:58 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:29:58 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:30:01 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:30:01 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:30:04 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:30:04 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:30:07 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:30:07 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:30:10 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:30:10 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:30:11 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:32:00 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:32:00 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:32:03 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:32:07 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:32:07 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:32:10 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:32:10 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:32:12 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:32:17 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:32:17 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:32:20 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:32:20 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:32:21 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:36:49 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:36:49 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:36:52 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:36:55 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:36:55 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:36:59 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:36:59 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:37:02 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:37:06 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:37:06 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:37:10 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:37:10 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:37:11 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:41:15 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:41:15 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:41:19 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:41:22 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:41:22 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:41:25 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:41:25 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:41:28 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:41:32 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:41:32 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:41:35 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:41:35 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:41:36 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:43:05 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:43:05 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:43:08 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:43:11 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:43:11 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:43:14 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:43:14 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:43:17 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:43:20 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:43:20 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:43:23 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:43:23 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:43:25 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:54:53 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:54:53 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:54:56 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:54:59 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:54:59 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:55:02 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:55:02 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:55:05 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 12:55:08 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:55:08 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:55:11 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 12:55:12 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 12:55:13 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 13:03:56 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:03:56 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:03:59 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 13:04:03 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:04:03 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:04:06 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:04:06 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:04:08 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 13:04:15 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:04:15 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:04:20 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:04:20 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:04:21 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 13:05:06 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:05:06 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:05:09 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 13:05:13 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:05:14 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:05:17 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:05:17 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:05:19 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 13:05:23 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:05:23 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:05:47 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 13:05:47 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 13:05:48 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:11:16 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:11:17 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:11:19 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:11:23 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:11:23 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:11:26 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:11:26 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:11:28 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:11:32 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:11:32 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:11:34 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:11:35 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:11:36 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:31:41 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:31:41 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:31:44 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:31:48 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:31:48 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:31:51 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:31:51 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:31:53 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:31:56 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:31:56 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:31:59 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:31:59 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:32:00 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:34:30 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:34:30 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:34:34 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:34:38 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:34:38 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:34:41 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:34:41 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:34:43 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:34:46 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:34:46 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:34:49 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:34:49 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:34:50 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:42:53 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:42:53 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:42:56 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:42:59 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:42:59 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:43:02 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:43:02 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:43:04 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 14:43:08 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:43:08 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:43:11 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-18 14:43:11 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-18 14:43:12 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-18 16:04:30 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:04:30 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:04:33 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:04:36 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:04:36 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:07:00 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:07:00 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:07:03 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:07:10 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:07:10 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:09:22 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:09:22 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:09:25 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:09:33 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:09:33 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:12:24 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:12:24 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:12:27 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:12:34 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:12:34 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:16:39 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:16:39 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:16:42 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:16:49 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:16:49 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:17:37 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:17:37 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:17:40 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:17:47 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:17:47 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:21:43 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:21:43 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:21:46 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:21:53 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:21:53 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:24:27 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:24:27 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:24:30 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:24:37 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:24:37 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:25:32 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:25:32 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:25:35 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:25:42 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:25:42 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 16:29:26 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 16:29:26 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 16:29:30 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 16:29:37 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 16:29:37 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 18:05:46 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 18:05:46 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 18:05:50 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 18:05:57 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 18:05:57 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 20:20:36 INFO  [main] TC_AddCustomertest_003.java:20 - Username is entered
+  2021-11-18 20:20:36 INFO  [main] TC_AddCustomertest_003.java:22 - Password is entered
+  2021-11-18 20:20:39 INFO  [main] TC_AddCustomertest_003.java:30 - Providing customer details
+  2021-11-18 20:20:46 INFO  [main] TC_AddCustomertest_003.java:52 - validation is started
+  2021-11-18 20:20:46 INFO  [main] TC_AddCustomertest_003.java:63 - testcase is failed
+  2021-11-18 20:30:46 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-18 20:30:46 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-18 20:30:46 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-18 20:30:46 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-18 20:30:49 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-18 20:30:49 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-18 20:30:57 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-18 20:30:57 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-18 20:31:55 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-18 20:31:55 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-18 20:31:58 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-18 20:32:06 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-18 20:32:06 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 13:36:18 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:36:18 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:36:23 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 13:36:38 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:36:38 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:36:42 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:36:42 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:36:45 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 13:36:58 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:36:58 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:37:02 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:37:02 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:37:03 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 13:54:46 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:54:46 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:54:48 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 13:54:52 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:54:52 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:54:55 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:54:55 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:54:57 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 13:55:02 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:55:02 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:55:16 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 13:55:16 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 13:59:14 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-20 13:59:14 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-20 13:59:15 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-20 13:59:17 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-20 14:04:23 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-20 14:04:24 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-20 14:04:24 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-20 14:06:52 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 14:06:52 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 14:06:55 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 14:06:58 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 14:06:58 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 14:07:01 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 14:07:01 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 14:07:04 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 14:07:07 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 14:07:07 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 14:07:10 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 14:07:10 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 14:08:25 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 14:08:25 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 14:08:28 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 14:08:35 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 14:08:35 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 14:17:45 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 14:17:45 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 14:17:48 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 14:17:56 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 14:17:56 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 14:56:21 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 14:56:21 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 14:56:26 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 14:56:33 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 14:56:33 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 14:59:20 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 14:59:21 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 14:59:26 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 14:59:33 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 14:59:33 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 15:01:20 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:01:20 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:01:25 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 15:01:32 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 15:01:32 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 15:02:42 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:02:42 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:02:48 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 15:02:55 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 15:02:55 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 15:11:08 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:11:08 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:11:14 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 15:11:21 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 15:11:21 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 15:11:53 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:11:53 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:11:59 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 15:12:03 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 15:12:03 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 15:21:05 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:21:05 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:23:17 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:23:18 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:23:23 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 15:23:27 INFO  [main] TC_AddCustomertest_003.java:51 - validation is started
+  2021-11-20 15:23:27 INFO  [main] TC_AddCustomertest_003.java:62 - testcase is failed
+  2021-11-20 15:24:30 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:24:31 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:24:36 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 15:25:13 INFO  [main] TC_AddCustomertest_003.java:19 - Username is entered
+  2021-11-20 15:25:13 INFO  [main] TC_AddCustomertest_003.java:21 - Password is entered
+  2021-11-20 15:25:21 INFO  [main] TC_AddCustomertest_003.java:29 - Providing customer details
+  2021-11-20 19:03:24 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 19:03:24 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 19:03:29 INFO  [main] TC_AddCustomertest_003.java:27 - Providing customer details
+  2021-11-20 20:21:00 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:21:00 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 20:21:05 INFO  [main] TC_AddCustomertest_003.java:27 - Providing customer details
+  2021-11-20 20:21:15 INFO  [main] TC_AddCustomertest_003.java:49 - validation is started
+  2021-11-20 20:21:15 INFO  [main] TC_AddCustomertest_003.java:56 - testcase is passed
+  2021-11-20 20:21:52 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:21:52 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 20:21:58 INFO  [main] TC_AddCustomertest_003.java:27 - Providing customer details
+  2021-11-20 20:22:07 INFO  [main] TC_AddCustomertest_003.java:49 - validation is started
+  2021-11-20 20:22:07 INFO  [main] TC_AddCustomertest_003.java:56 - testcase is passed
+  2021-11-20 20:26:31 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:26:31 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 20:26:36 INFO  [main] TC_AddCustomertest_003.java:27 - Providing customer details
+  2021-11-20 20:27:55 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:27:55 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 20:28:01 INFO  [main] TC_AddCustomertest_003.java:27 - Providing customer details
+  2021-11-20 20:58:12 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:58:12 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 20:58:14 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:58:14 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 20:58:18 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 20:58:19 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 20:58:27 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 20:58:27 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-20 20:58:28 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 20:58:28 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-20 20:59:56 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 20:59:57 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:00:02 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:00:55 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:00:55 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:01:00 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:02:02 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:02:02 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:02:08 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:04:17 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:04:17 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:04:22 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:05:08 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 21:05:08 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-20 21:08:38 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:08:38 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:08:43 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:08:52 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 21:08:52 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-20 21:11:47 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-20 21:11:47 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-20 21:11:47 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-20 21:11:49 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-20 21:12:00 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:12:00 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:12:03 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 21:12:07 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:12:08 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:12:11 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:12:11 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:12:13 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 21:12:16 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:12:16 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:12:19 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:12:19 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:12:28 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:12:29 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:12:34 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:12:41 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 21:13:46 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:13:46 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:13:52 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:14:00 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 21:14:00 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-20 21:15:00 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-20 21:15:00 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-20 21:15:00 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-20 21:15:02 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-20 21:15:10 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:15:10 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:15:13 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 21:15:16 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:15:16 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:15:19 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:15:19 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:15:22 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-20 21:15:27 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:15:27 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:15:30 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-20 21:15:30 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-20 21:15:44 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-20 21:15:44 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-20 21:15:50 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-20 21:15:58 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-20 21:15:58 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 13:20:57 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 13:20:58 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 13:20:58 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 13:21:00 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 13:21:22 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:21:22 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:21:25 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-21 13:21:29 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:21:29 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:21:32 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:21:32 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:21:34 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-21 13:21:38 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:21:39 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:21:42 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:21:42 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:21:53 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 13:21:53 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 13:21:59 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 13:22:07 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 13:41:28 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 13:41:29 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 13:41:29 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 13:41:30 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 13:41:38 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:41:38 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:41:41 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-21 13:41:44 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:41:44 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:41:47 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:41:47 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:41:49 INFO  [main] TC_LoginDDT_002.java:40 - Login Passed
+  2021-11-21 13:41:52 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:41:52 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:41:55 INFO  [main] TC_LoginDDT_002.java:21 - Username provided
+  2021-11-21 13:41:55 INFO  [main] TC_LoginDDT_002.java:23 - Password provided
+  2021-11-21 13:42:07 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 13:42:07 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 13:42:13 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 13:42:21 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 13:42:21 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 13:43:37 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 13:43:38 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 13:43:38 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 13:43:39 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 13:43:46 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 13:43:46 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 13:43:51 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 13:44:00 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 13:44:00 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 14:31:10 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 14:31:10 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 14:31:10 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 14:31:12 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 14:31:22 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 14:31:22 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 14:31:28 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 14:31:36 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 14:31:36 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 15:00:55 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 15:00:55 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 15:00:55 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 15:00:57 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 15:01:14 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 15:01:14 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 15:01:19 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 15:01:28 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 15:01:28 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 15:20:22 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 15:20:22 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 15:20:22 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 15:20:24 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 15:20:32 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 15:20:32 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 15:20:37 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 15:20:46 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 15:20:46 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 15:31:55 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 15:31:55 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 15:31:55 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 15:31:57 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 15:32:03 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 15:32:04 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 15:32:09 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 15:32:17 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 15:32:17 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 15:47:23 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 15:47:23 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 15:47:23 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 15:47:25 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 15:47:31 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 15:47:31 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 15:47:37 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 15:47:45 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 15:47:45 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 15:48:14 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 15:48:14 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 15:48:14 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 15:48:23 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 15:48:38 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 15:48:38 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 15:48:45 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 15:48:53 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 15:48:53 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 16:14:53 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 16:14:54 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 16:14:54 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 16:15:09 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 16:15:15 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 16:15:15 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 16:36:49 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 16:36:49 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 16:36:49 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 16:36:51 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 16:36:57 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 16:36:58 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 16:37:04 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 16:37:12 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 16:37:12 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-21 16:37:37 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-21 16:37:37 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-21 16:37:37 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-21 16:37:39 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-21 16:37:45 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-21 16:37:45 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-21 16:37:51 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-21 16:38:00 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-21 16:38:00 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:01:41 INFO  [main] TC_LoginDDT_002.java:20 - Username provided
+  2021-11-23 14:01:41 INFO  [main] TC_LoginDDT_002.java:22 - Password provided
+  2021-11-23 14:01:45 INFO  [main] TC_LoginDDT_002.java:39 - Login Passed
+  2021-11-23 14:01:49 INFO  [main] TC_LoginDDT_002.java:20 - Username provided
+  2021-11-23 14:01:49 INFO  [main] TC_LoginDDT_002.java:22 - Password provided
+  2021-11-23 14:01:53 INFO  [main] TC_LoginDDT_002.java:20 - Username provided
+  2021-11-23 14:01:53 INFO  [main] TC_LoginDDT_002.java:22 - Password provided
+  2021-11-23 14:01:56 INFO  [main] TC_LoginDDT_002.java:39 - Login Passed
+  2021-11-23 14:01:59 INFO  [main] TC_LoginDDT_002.java:20 - Username provided
+  2021-11-23 14:01:59 INFO  [main] TC_LoginDDT_002.java:22 - Password provided
+  2021-11-23 14:02:02 INFO  [main] TC_LoginDDT_002.java:20 - Username provided
+  2021-11-23 14:02:02 INFO  [main] TC_LoginDDT_002.java:22 - Password provided
+  2021-11-23 14:06:36 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:06:36 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:06:42 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:06:51 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:06:51 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:11:17 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:11:17 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:11:23 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:11:32 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:11:32 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:12:19 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:12:19 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:12:25 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:12:34 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:12:34 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:13:20 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:13:21 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:13:26 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:13:35 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:13:35 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:19:53 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:19:53 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:19:59 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:20:08 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:20:08 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:28:59 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:28:59 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:29:06 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:29:14 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:29:14 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:30:55 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 14:30:56 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 14:30:56 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 14:30:58 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 14:31:09 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:31:09 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:31:15 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:31:24 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:31:24 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:32:40 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 14:32:40 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 14:32:40 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 14:32:48 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 14:33:00 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:33:00 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:33:06 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:33:14 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:33:14 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:34:33 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 14:34:34 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 14:34:34 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 14:34:35 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 14:34:57 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:34:57 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:35:04 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:35:16 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:35:16 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:56:48 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:56:48 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:56:54 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:57:03 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:57:03 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 14:57:43 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 14:57:43 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 14:57:43 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 14:57:45 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 14:57:56 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 14:57:56 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 14:58:02 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 14:58:10 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 14:58:10 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 15:00:35 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 15:00:35 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 15:00:35 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 15:00:37 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 15:00:48 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 15:00:48 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 15:00:55 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 15:01:03 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 15:01:03 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 15:06:35 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 15:06:36 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 15:06:36 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 15:06:37 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 15:06:46 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 15:06:46 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 15:06:52 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 15:07:01 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 15:07:01 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 16:41:24 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 16:41:24 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 16:41:25 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 16:41:26 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 16:41:35 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 16:41:35 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 16:41:40 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 16:41:48 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 16:42:59 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 16:42:59 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 16:42:59 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 16:43:01 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 16:43:08 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 16:43:08 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 16:43:13 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 16:43:21 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 16:43:21 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 16:50:01 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 16:50:01 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 16:50:02 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 16:50:03 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 16:50:11 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 16:50:11 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 16:50:18 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 16:50:26 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 16:50:26 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-23 16:50:48 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-23 16:50:49 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-23 16:50:49 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-23 16:50:51 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-23 16:50:58 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-23 16:50:58 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-23 16:51:03 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-23 16:51:12 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-23 16:51:12 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-25 17:19:36 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-25 17:19:37 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-25 17:19:37 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-25 17:19:39 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-25 17:19:45 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-25 17:19:45 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-25 17:19:50 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-25 17:19:59 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-25 17:19:59 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-25 17:25:03 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-25 17:25:03 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-25 17:25:03 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-25 17:25:05 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-25 17:25:45 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-25 17:25:45 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-25 17:25:45 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-25 17:25:47 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-25 18:04:37 INFO  [main] TC_LoginTest_001.java:16 - Url is opened
+  2021-11-25 18:04:37 INFO  [main] TC_LoginTest_001.java:21 - Enter username
+  2021-11-25 18:04:38 INFO  [main] TC_LoginTest_001.java:24 - Enter password
+  2021-11-25 18:04:39 INFO  [main] TC_LoginTest_001.java:32 - Login test is passed
+  2021-11-25 18:05:56 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-25 18:05:57 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-25 18:06:02 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-25 18:06:11 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-25 18:06:11 INFO  [main] TC_AddCustomertest_003.java:61 - testcase is failed
+  2021-11-25 18:06:47 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-25 18:06:47 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-25 18:06:52 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-25 18:07:01 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-25 18:07:01 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-25 19:31:35 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-25 19:31:36 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-25 19:31:42 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-25 19:31:50 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-25 19:31:50 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-25 21:15:59 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-25 21:15:59 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-25 21:16:05 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-25 21:16:14 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-25 21:16:14 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  2021-11-26 15:11:53 INFO  [main] TC_AddCustomertest_003.java:18 - Username is entered
+  2021-11-26 15:11:54 INFO  [main] TC_AddCustomertest_003.java:20 - Password is entered
+  2021-11-26 15:12:02 INFO  [main] TC_AddCustomertest_003.java:28 - Providing customer details
+  2021-11-26 15:12:11 INFO  [main] TC_AddCustomertest_003.java:50 - validation is started
+  2021-11-26 15:12:11 INFO  [main] TC_AddCustomertest_003.java:57 - testcase is passed
+  
